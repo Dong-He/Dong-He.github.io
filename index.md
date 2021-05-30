@@ -1,4 +1,4 @@
-I am a Ph.D. Student in department of Mechanical Engineering at Hong Kong University of Science and Technology. I conduct research in <a href="http://mektang.people.ust.hk/">Prof. Kai TANG</a>'s Lab, where my research interests include computer-aided design/manufacturing/inspection and signal processing in manufacturing process.
+I am a Ph.D. Student in department of Mechanical Engineering at Hong Kong University of Science and Technology. <a href="https://docs.google.com/document/d/1I_pskUUkR0F-M39aNBe-BI2NoyAhiWc2to2PEfdwV4k/edit?usp=sharing">(CV)</a> I conduct research in <a href="http://mektang.people.ust.hk/">Prof. Kai TANG</a>'s Lab, where my research interests include computer-aided design/manufacturing/inspection and signal processing in manufacturing process.
 
 Please take a look through my site and feel free to contact me if you have any questions or would be interested in working together!
 
@@ -39,5 +39,20 @@ The latest publications are on <a href="https://scholar.google.com/citations?use
     <img src="images/pic1.jpg" width="300"/><img src="images/pic2.jpg" width="300"/>
 </center>
 
+* [Downsampling-based synchrosqueezing transform and its applications on large-scale vibration data](https://doi.org/10.1016/j.jsv.2021.115938). **Dong He**, Hongrui Cao, Journal of Sound and Vibration, 2021.
+<center class="half">
+    <img src="images/FastSST1.jpg" width="300"/><img src="images/FastSST2.jpg" width="300"/>
+</center>
 
-   <a href="https://docs.google.com/document/d/1I_pskUUkR0F-M39aNBe-BI2NoyAhiWc2to2PEfdwV4k/edit?usp=sharing">Full CV</a>
+* [An improvement of time-reassigned synchrosqueezing transform algorithm and its application in mechanical fault diagnosis](https://doi.org/10.1016/j.measurement.2020.107538).Hongrui Cao, Xiangsheng Wang, **Dong He**, Xuefeng Chen, Measurement, 2020.
+
+* [Time-reassigned synchrosqueezing transform: The algorithm and its applications in mechanical signal processing](https://doi.org/10.1016/j.ymssp.2018.08.004). **Dong He**, Hongrui Cao, Shibin Wang, Xuefeng Chen, Mechanical Systems and Signal Processing, 2019.
+<center class="half">
+    <img src="images/tsst1.jpg" width="300"/><img src="images/tsst2.jpg" width="300"/>
+</center>
+
+* [Vibration signal correction of unbalanced rotor due to angular speed fluctuation](https://doi.org/10.1016/j.ymssp.2018.01.030). Hongrui Cao, **Dong He**, Songtao Xi, Xuefeng Chen, Mechanical Systems and Signal Processing, 2018.
+<center class="half">
+    <img src="images/sst1.jpg" width="300"/><img src="images/sst2.jpg" width="300"/>
+</center>
+ 
