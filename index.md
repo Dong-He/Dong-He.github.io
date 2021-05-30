@@ -32,7 +32,9 @@ Please take a look through my site and feel free to contact me if you have any q
 The latest publications are on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
 
 **Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts**
-Dong He, Yamin Li, Zhaoyu Li, Kai Tangg
+
+Dong He, Yamin Li, Zhaoyu Li, Kai Tang 
+
 Journal of Manufacturing Science and Engineering 143 (6), 061009.
 
 
