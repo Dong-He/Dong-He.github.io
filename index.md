@@ -46,7 +46,7 @@ The latest publications are on <a href="https://scholar.google.com/citations?use
 
 * [Time-reassigned synchrosqueezing transform: The algorithm and its applications in mechanical signal processing](https://doi.org/10.1016/j.ymssp.2018.08.004). **Dong He**, Hongrui Cao, Shibin Wang, Xuefeng Chen, Mechanical Systems and Signal Processing, 2019.
 <center class="half">
-    <img src="images/tsst1.jpg" width="300"/><img src="images/tsst2.jpg" width="150"/>
+    <img src="images/tsst1.jpg" width="300"/><img src="images/tsst2.jpg" width="175"/>
 </center>
 
 * [Vibration signal correction of unbalanced rotor due to angular speed fluctuation](https://doi.org/10.1016/j.ymssp.2018.01.030). Hongrui Cao, **Dong He**, Songtao Xi, Xuefeng Chen, Mechanical Systems and Signal Processing, 2018.
