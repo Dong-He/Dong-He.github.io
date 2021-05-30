@@ -39,14 +39,14 @@ The latest publications are on <a href="https://scholar.google.com/citations?use
     <img src="images/pic1.jpg" width="300"/><img src="images/pic2.jpg" width="300"/>
 </center>
 
-* [Downsampling-based synchrosqueezing transform and its applications on large-scale vibration data](https://doi.org/10.1016/j.jsv.2021.115938). **Dong He**, Hongrui Cao, Journal of Sound and Vibration, 2020.
+* [Downsampling-based synchrosqueezing transform and its applications on large-scale vibration data](https://doi.org/10.1016/j.jsv.2021.115938). **Dong He**, Hongrui Cao, Journal of Sound and Vibration, 2020. [[Code]](https://github.com/Dong-He/downsampled_SST)
 <center class="half">
     <img src="images/FastSST1.jpg" width="350"/><img src="images/FastSST2.jpg" width="200"/>
 </center>
 
-* [Time-reassigned synchrosqueezing transform: The algorithm and its applications in mechanical signal processing](https://doi.org/10.1016/j.ymssp.2018.08.004). **Dong He**, Hongrui Cao, Shibin Wang, Xuefeng Chen, Mechanical Systems and Signal Processing, 2019.
+* [Time-reassigned synchrosqueezing transform: The algorithm and its applications in mechanical signal processing](https://doi.org/10.1016/j.ymssp.2018.08.004). **Dong He**, Hongrui Cao, Shibin Wang, Xuefeng Chen, Mechanical Systems and Signal Processing, 2019. [[Code]](https://github.com/Dong-He/tsst)
 <center class="half">
-    <img src="images/tsst1.jpg" width="300"/><img src="images/tsst2.jpg" width="175"/>
+    <img src="images/tsst1.jpg" width="350"/><img src="images/tsst2.jpg" width="200"/>
 </center>
 
 * [Vibration signal correction of unbalanced rotor due to angular speed fluctuation](https://doi.org/10.1016/j.ymssp.2018.01.030). Hongrui Cao, **Dong He**, Songtao Xi, Xuefeng Chen, Mechanical Systems and Signal Processing, 2018.
