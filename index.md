@@ -11,9 +11,9 @@ Please take a look through my site and feel free to contact me if you have any q
 <a href="https://github.com/dong-he">Github</a>
 
 ### Education
-* B.S. Xi’an Jiaotong University, 2011-2015
-* M.S. Xi’an Jiaotong University, 2015-2018
 * Ph.D Hong Kong University of Science and Technology, 2019-present
+* M.S. Xi’an Jiaotong University, 2015-2018
+* B.S. Xi’an Jiaotong University, 2011-2015
 
 ### Experience
 * **Research Assistant**, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 07/2018-07/2019
@@ -23,9 +23,9 @@ Please take a look through my site and feel free to contact me if you have any q
 * **Volunteer**, The 120th Anniversary Celebration of XJTU, 04/2016
 
 ### Teaching
-* **Teaching Assistant**, Final year project of undergraduates, XJTU, 12/2016-10/2017
 * **Teaching Assistant**, MECH 4740 Numerical methods, HKUST, 02/2021-06/2021
 * **Teaching Assistant**, MESF 5380 Advanced numerical methods, HKUST, 02/2021-06/2021
+* **Teaching Assistant**, Final year project of undergraduates, XJTU, 12/2016-10/2017
 
 ### Publications
 The latest publications are on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
