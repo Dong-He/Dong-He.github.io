@@ -1,7 +1,9 @@
 I am a Ph.D. Student in department of Mechanical Engineering at Hong Kong University of Science and Technology. I conduct research in <a href="http://mektang.people.ust.hk/">Prof. Kai TANG</a>'s Lab, where my research interests include computer-aided design/manufacturing/inspection and signal processing in manufacturing process.
 
 Please take a look through my site and feel free to contact me if you have any questions or would be interested in working together!
-
+<!--
+<a href="https://outlook.office365.com/owa/calendar/5bba860448ee4699951c23d0497e68c7@connect.ust.hk/875dd7cc2f224ef6ba1217a7c56db54813388903898056239305/calendar.html">Calendar</a>
+-->
 <a href="mailto:dong.he@connect.ust.hk">Email</a> |
 <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar</a> |
 <a href="https://www.researchgate.net/profile/Dong_He8">Research Gate</a> |
