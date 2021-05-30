@@ -29,11 +29,15 @@ Please take a look through my site and feel free to contact me if you have any q
 ### Publications
 The latest publications are on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
 
-* [Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts](https://doi.org/10.1115/1.4048956). **Dong He**, Yamin Li, Zhaoyu Li, Kai Tang, Journal of Manufacturing Science and Engineering, 2020.
+* [Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts](https://doi.org/10.1115/1.4048956). **Dong He**, Yamin Li, Zhaoyu Li, Kai Tang, Journal of Manufacturing Science and Engineering, 2021.
 <center class="half">
     <img src="images/machining_layers.png" width="300"/><img src="images/geodesic.png" width="300"/>
 </center>
 
+* [Multi-Axis Support-Free Printing of Freeform Parts with Lattice Infill Structures](https://doi.org/10.1016/j.cad.2020.102986). Yamin Li, Kai Tang, **Dong He**, Xiangyu Wang, Computer-Aided Design, 2021.
+<center class="half">
+    <img src="images/pic1.jpg" width="300"/><img src="images/pic2.jpg" width="300"/>
+</center>
 
 
    <a href="https://docs.google.com/document/d/1I_pskUUkR0F-M39aNBe-BI2NoyAhiWc2to2PEfdwV4k/edit?usp=sharing">Full CV</a>
