@@ -29,7 +29,7 @@ Please take a look through my site and feel free to contact me if you have any q
 ### Publications
 The latest publications are on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
 
-<div><img src="https://asmedc.silverchair-cdn.com/asmedc/content_public/journal/manufacturingscience/143/6/10.1115_1.4048956/1/m_manu_143_6_061009_f002.png?Expires=1625137354&Signature=p8jh9~YURViHPJo-G48sECvrecBYZchqM8WICbZceOxiQLq~WqFaGxGxi6GPflhGoD8pSZubwPV0IJeIF~KYD8D-SQaKo4aJhEBn2fBy8ordx6fWYApFZw7TfelJztJ9FmXIIMbsdapXvLchCXZx8BVRX9nwd0GRbbSwu3MK~y1edkfIVALOlWPP7adiIvu30oEHIACRV8bPohCn50WOMd01gRxlLuOJarr2WE4~J2IVvB6yZjQQXxbu7~rXaWTiGxJmsCIoh7NFOnslGBpEQvcE9M3MzQTu4APGL0v9XXuE8pxsU-nUeaezOFERb7JaqGGs-p01obKj-4vNMmPbrw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" align="right" width="300"></div>
+<div><img src="geodesic.png" align="right" height="300"></div>
 
 <p>Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts
   
