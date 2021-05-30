@@ -30,7 +30,9 @@ You can also find my latest articles on <a href="https://scholar.google.com/cita
 -->
 
 ### Teaching
-* **Teaching Assistant**, School of Mechanical Engineering, XJTU, 12/2016-10/2017
+* **Teaching Assistant**, Final year project of undergraduates, XJTU, 12/2016-10/2017
+* **Teaching Assistant**, MECH 4740 Numerical methods, HKUST, 02/2021-06/2021
+* **Teaching Assistant**, MESF 5380 Advanced numerical methods, HKUST, 02/2021-06/2021
 
 ### Service
 * **Volunteer**, The 120th Anniversary Celebration of XJTU, 04/2016
