@@ -32,9 +32,7 @@ The latest publications are on <a href="https://scholar.google.com/citations?use
 <div><img src="images/geodesic.png" align="right" width="300"></div>
 
 <p><li>Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts</li>
-  
-  Dong He, Yamin Li, Zhaoyu Li, Kai Tang
-  
+  Dong He, Yamin Li, Zhaoyu Li, Kai Tang </br>
   Journal of Manufacturing Science and Engineering 143 (6), 061009.</p>
 
 
