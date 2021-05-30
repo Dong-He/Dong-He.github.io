@@ -38,9 +38,23 @@ The latest publications are on <a href="https://scholar.google.com/citations?use
   {% endfor %}</ul>
 -->
 
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                <!--左侧内容-->
+                Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts </br> Dong He, Yamin Li, Zhaoyu Li, Kai Tang
+            </td>
+            <td>
+                <!--右侧内容-->
+               <p><img src="https://asmedc.silverchair-cdn.com/asmedc/content_public/journal/manufacturingscience/143/6/10.1115_1.4048956/1/m_manu_143_6_061009_f002.png?Expires=1625137354&Signature=p8jh9~YURViHPJo-G48sECvrecBYZchqM8WICbZceOxiQLq~WqFaGxGxi6GPflhGoD8pSZubwPV0IJeIF~KYD8D-SQaKo4aJhEBn2fBy8ordx6fWYApFZw7TfelJztJ9FmXIIMbsdapXvLchCXZx8BVRX9nwd0GRbbSwu3MK~y1edkfIVALOlWPP7adiIvu30oEHIACRV8bPohCn50WOMd01gRxlLuOJarr2WE4~J2IVvB6yZjQQXxbu7~rXaWTiGxJmsCIoh7NFOnslGBpEQvcE9M3MzQTu4APGL0v9XXuE8pxsU-nUeaezOFERb7JaqGGs-p01obKj-4vNMmPbrw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Smiley face" align="middle" height="100"></p>
+            </td>
+        </tr>
+    </table>
+</html>
 
-<p>Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts </br>
-  Dong He, Yamin Li, Zhaoyu Li, Kai Tang<img src="https://asmedc.silverchair-cdn.com/asmedc/content_public/journal/manufacturingscience/143/6/10.1115_1.4048956/1/m_manu_143_6_061009_f002.png?Expires=1625137354&Signature=p8jh9~YURViHPJo-G48sECvrecBYZchqM8WICbZceOxiQLq~WqFaGxGxi6GPflhGoD8pSZubwPV0IJeIF~KYD8D-SQaKo4aJhEBn2fBy8ordx6fWYApFZw7TfelJztJ9FmXIIMbsdapXvLchCXZx8BVRX9nwd0GRbbSwu3MK~y1edkfIVALOlWPP7adiIvu30oEHIACRV8bPohCn50WOMd01gRxlLuOJarr2WE4~J2IVvB6yZjQQXxbu7~rXaWTiGxJmsCIoh7NFOnslGBpEQvcE9M3MzQTu4APGL0v9XXuE8pxsU-nUeaezOFERb7JaqGGs-p01obKj-4vNMmPbrw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Smiley face" align="middle" height="100"></p>
+
+
 
 
 
