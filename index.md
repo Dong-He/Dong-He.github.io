@@ -38,11 +38,9 @@ The latest publications are on <a href="https://scholar.google.com/citations?use
   {% endfor %}</ul>
 -->
 
+<h3 class="auto-style3"><strong style="font-family: Cambria, &#39;Hoefler Text&#39;, &#39;Liberation Serif&#39;, Times, &#39;Times New Roman&#39;, serif"><span style="">Publications </span></strong></h3>
 
 <table style="width: 90%; height: 173px; text-align: left; margin-left: auto; margin-right: auto;" border="0" cellpadding="2" cellspacing="2"><tbody>
-
-
-
 
   <tr>
     <td colspan="2" style="text-align: center; vertical-align: middle;"><hr noshade="noshade"></td>
