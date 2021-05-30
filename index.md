@@ -38,21 +38,24 @@ The latest publications are on <a href="https://scholar.google.com/citations?use
   {% endfor %}</ul>
 -->
 
-<html>
+
+  <tr>
+    <td colspan="2" style="text-align: center; vertical-align: middle;"><hr noshade="noshade"></td>
+    </tr>
+  <tr>
+  <td style="text-align: center; vertical-align: middle;">
+  <img src="https://asmedc.silverchair-cdn.com/asmedc/content_public/journal/manufacturingscience/143/6/10.1115_1.4048956/1/m_manu_143_6_061009_f002.png?Expires=1625137354&Signature=p8jh9~YURViHPJo-G48sECvrecBYZchqM8WICbZceOxiQLq~WqFaGxGxi6GPflhGoD8pSZubwPV0IJeIF~KYD8D-SQaKo4aJhEBn2fBy8ordx6fWYApFZw7TfelJztJ9FmXIIMbsdapXvLchCXZx8BVRX9nwd0GRbbSwu3MK~y1edkfIVALOlWPP7adiIvu30oEHIACRV8bPohCn50WOMd01gRxlLuOJarr2WE4~J2IVvB6yZjQQXxbu7~rXaWTiGxJmsCIoh7NFOnslGBpEQvcE9M3MzQTu4APGL0v9XXuE8pxsU-nUeaezOFERb7JaqGGs-p01obKj-4vNMmPbrw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"  width="380"><br></td>
+  <td style="text-align: justify; vertical-align: top;" class="auto-style6">
+  <div class="auto-style6" style="text-align: justify;"><span class="auto-style8">
+
+    Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts
+     </span><a href="https://asmedigitalcollection.asme.org/manufacturingscience/article/143/6/061009/1089700">TVCG 2019</a>.<br>
+  <br>
+      <span style="color: rgba(0,0,0,1)">[<a href="https://asmedigitalcollection.asme.org/manufacturingscience/article/143/6/061009/1089700">Project page</a>]</span></span><span style="color: rgb(204, 51, 204);">
+	  <span style="color: rgba(0,0,0,1)">[<a href="https://asmedigitalcollection.asme.org/manufacturingscience/article/143/6/061009/1089700">Paper</a>]</span></span><span style="color: rgb(204, 51, 204);"><br>
+  </span></div>
+  </td>
   
-    <table style="margin-left: auto; margin-right: auto;" frame=void  >
-        <tr>
-            <td>
-                <!--左侧内容-->
-                Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts </br> Dong He, Yamin Li, Zhaoyu Li, Kai Tang
-            </td>
-            <td>
-                <!--右侧内容-->
-               <p><img src="https://asmedc.silverchair-cdn.com/asmedc/content_public/journal/manufacturingscience/143/6/10.1115_1.4048956/1/m_manu_143_6_061009_f002.png?Expires=1625137354&Signature=p8jh9~YURViHPJo-G48sECvrecBYZchqM8WICbZceOxiQLq~WqFaGxGxi6GPflhGoD8pSZubwPV0IJeIF~KYD8D-SQaKo4aJhEBn2fBy8ordx6fWYApFZw7TfelJztJ9FmXIIMbsdapXvLchCXZx8BVRX9nwd0GRbbSwu3MK~y1edkfIVALOlWPP7adiIvu30oEHIACRV8bPohCn50WOMd01gRxlLuOJarr2WE4~J2IVvB6yZjQQXxbu7~rXaWTiGxJmsCIoh7NFOnslGBpEQvcE9M3MzQTu4APGL0v9XXuE8pxsU-nUeaezOFERb7JaqGGs-p01obKj-4vNMmPbrw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Smiley face" align="middle" height="100"></p>
-            </td>
-        </tr>
-    </table>
-</html>
 
 
 
