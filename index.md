@@ -46,6 +46,8 @@ The latest publications are on <a href="https://scholar.google.com/citations?use
 
 * [An improvement of time-reassigned synchrosqueezing transform algorithm and its application in mechanical fault diagnosis](https://doi.org/10.1016/j.measurement.2020.107538).Hongrui Cao, Xiangsheng Wang, **Dong He**, Xuefeng Chen, Measurement, 2020.
 
+* [A novel underdetermined blind source separation method with noise and unknown source number](https://doi.org/10.1016/j.jsv.2019.05.037). Jiantao Lu, Wei Cheng, **Dong He**, Yanyang Zi, Journal of Sound and Vibration, 2019.
+
 * [Time-reassigned synchrosqueezing transform: The algorithm and its applications in mechanical signal processing](https://doi.org/10.1016/j.ymssp.2018.08.004). **Dong He**, Hongrui Cao, Shibin Wang, Xuefeng Chen, Mechanical Systems and Signal Processing, 2019.
 <center class="half">
     <img src="images/tsst1.jpg" width="300"/><img src="images/tsst2.jpg" width="300"/>
