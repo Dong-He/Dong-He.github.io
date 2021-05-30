@@ -19,6 +19,14 @@ Please take a look through my site and feel free to contact me if you have any q
 * **Research Assistant**, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 07/2018-07/2019
 * **System Engineer Intern**, Envision Energy LLC, 07/2017-08/2017
 
+### Service
+* **Volunteer**, The 120th Anniversary Celebration of XJTU, 04/2016
+
+### Teaching
+* **Teaching Assistant**, Final year project of undergraduates, XJTU, 12/2016-10/2017
+* **Teaching Assistant**, MECH 4740 Numerical methods, HKUST, 02/2021-06/2021
+* **Teaching Assistant**, MESF 5380 Advanced numerical methods, HKUST, 02/2021-06/2021
+
 ### Publications
 The latest publications are on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
 
@@ -29,12 +37,5 @@ The latest publications are on <a href="https://scholar.google.com/citations?use
   {% endfor %}</ul>
 -->
 
-### Teaching
-* **Teaching Assistant**, Final year project of undergraduates, XJTU, 12/2016-10/2017
-* **Teaching Assistant**, MECH 4740 Numerical methods, HKUST, 02/2021-06/2021
-* **Teaching Assistant**, MESF 5380 Advanced numerical methods, HKUST, 02/2021-06/2021
-
-### Service
-* **Volunteer**, The 120th Anniversary Celebration of XJTU, 04/2016
 
 <a href="https://docs.google.com/document/d/1I_pskUUkR0F-M39aNBe-BI2NoyAhiWc2to2PEfdwV4k/edit?usp=sharing">Full CV</a>
