@@ -39,7 +39,8 @@ The latest publications are on <a href="https://scholar.google.com/citations?use
 -->
 
 <html>
-    <table style="margin-left: auto; margin-right: auto;">
+  
+    <table style="margin-left: auto; margin-right: auto;" frame=void  >
         <tr>
             <td>
                 <!--左侧内容-->
