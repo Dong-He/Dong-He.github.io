@@ -33,7 +33,7 @@ The latest publications are on <a href="https://scholar.google.com/citations?use
 
 <div><img src="images/machining_layers.png" align="center" width="300"> <img src="images/geodesic.png" align="center" width="300"></div>
 
-
+![]("images/machining_layers.png")![]("images/geodesic.png")
 
 
 
