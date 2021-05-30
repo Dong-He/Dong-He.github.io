@@ -15,11 +15,11 @@ Please take a look through my site and feel free to contact me if you have any q
 * M.S. Xi’an Jiaotong University, 2015-2018
 * Ph.D Hong Kong University of Science and Technology, 2019-present
 
-### Working Experience
+### Experience
 * **Research Assistant**, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 07/2018-07/2019
 * **System Engineer Intern**, Envision Energy LLC, 07/2017-08/2017
 
-### <a href="https://dong-he.github.io/publications/">Publications</a>
+### Publications
 You can also find my latest articles on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
 
 <!--
