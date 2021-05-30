@@ -41,7 +41,7 @@ The latest publications are on <a href="https://scholar.google.com/citations?use
 
 * [Downsampling-based synchrosqueezing transform and its applications on large-scale vibration data](https://doi.org/10.1016/j.jsv.2021.115938). **Dong He**, Hongrui Cao, Journal of Sound and Vibration, 2020.
 <center class="half">
-    <img src="images/FastSST1.jpg" width="300"/><img src="images/FastSST2.jpg" width="200"/>
+    <img src="images/FastSST1.jpg" width="350"/><img src="images/FastSST2.jpg" width="200"/>
 </center>
 
 * [Time-reassigned synchrosqueezing transform: The algorithm and its applications in mechanical signal processing](https://doi.org/10.1016/j.ymssp.2018.08.004). **Dong He**, Hongrui Cao, Shibin Wang, Xuefeng Chen, Mechanical Systems and Signal Processing, 2019.
