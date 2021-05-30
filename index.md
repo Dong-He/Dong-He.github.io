@@ -20,7 +20,7 @@ Please take a look through my site and feel free to contact me if you have any q
 * **System Engineer Intern**, Envision Energy LLC, 07/2017-08/2017
 
 ### Publications
-You can also find my latest articles on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
+The latest publications are on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
 
 <!--
 ### Talks
