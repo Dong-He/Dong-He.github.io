@@ -12,7 +12,9 @@ Please take a look through my site and feel free to contact me if you have any q
 <a href="https://github.com/dong-he">Github</a>
 
 ### Education
-* Ph.D Hong Kong University of Science and Technology, 2019-present  * M.S. Xi’an Jiaotong University, 2015-2018  * B.S. Xi’an Jiaotong University, 2011-2015
+* Ph.D Hong Kong University of Science and Technology, 2019-present
+* M.S. Xi’an Jiaotong University, 2015-2018
+* B.S. Xi’an Jiaotong University, 2011-2015
 
 ### Experience
 * **Research Assistant**, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 07/2018-07/2019  
