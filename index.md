@@ -1,4 +1,3 @@
-<font size=3>
 I am a Ph.D. Student in department of Mechanical Engineering at Hong Kong University of Science and Technology <a href="https://docs.google.com/document/d/1I_pskUUkR0F-M39aNBe-BI2NoyAhiWc2to2PEfdwV4k/edit?usp=sharing">(CV)</a>. I conduct research in <a href="http://mektang.people.ust.hk/">Prof. Kai TANG</a>'s Lab, where my research interests include computer-aided design/manufacturing/inspection and signal processing in manufacturing process.
 
 Please take a look through my site and feel free to contact me if you have any questions or would be interested in working together!
@@ -73,4 +72,3 @@ ___
 * A novel underdetermined blind source separation method with noise and unknown source number. Jiantao Lu, Wei Cheng, **Dong He**, Yanyang Zi, Journal of Sound and Vibration, 2019. [[Paper]](https://doi.org/10.1016/j.jsv.2019.05.037)
 
 ___
-</font>
