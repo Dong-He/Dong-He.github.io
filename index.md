@@ -32,7 +32,7 @@ The latest publications are on <a href="https://scholar.google.com/citations?use
 ___
 * Quasi-developable and signed multi-strip approximation of a surface mesh for efficient flank milling. **Dong He**, Zhaoyu Li, Yamin Li, Kai Tang, accepted, Computer-Aided Design, special issue of 2021 Solid and Physical Modeling Conference, Sept. 27-29, 2021. [[Paper]]
 <center class="half">
-    <img src="images/quasi_patches.png" width="300"/><img src="images/quasi_experiment.png" width="300"/>
+    <img src="images/quasi_patches.png" width="150"/><img src="images/quasi_experiment.png" width="300"/>
 </center>
 
 ___
