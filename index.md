@@ -39,14 +39,14 @@ ___
 </center>
 
 ___
-* Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts. **Dong He**, Yamin Li, Zhaoyu Li, Kai Tang, Journal of Manufacturing Science and Engineering, 2021. [[Paper]](https://doi.org/10.1115/1.4048956)
+* Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts. **Dong He**, Yamin Li, Zhaoyu Li, Kai Tang, Journal of Manufacturing Science and Engineering, 2021. [[Paper]](files/Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts.pdf)
 <center class="half">
     <img src="images/machining_layers.png" width="300"/><img src="images/geodesic.png" width="300"/>
 </center>
 
 ___
 
-* Multi-Axis Support-Free Printing of Freeform Parts with Lattice Infill Structures. Yamin Li, Kai Tang, **Dong He**, Xiangyu Wang, Computer-Aided Design, 2021. [[Paper]](https://doi.org/10.1016/j.cad.2020.102986)
+* Multi-Axis Support-Free Printing of Freeform Parts with Lattice Infill Structures. Yamin Li, Kai Tang, **Dong He**, Xiangyu Wang, Computer-Aided Design, 2021. [[Paper]](files/Multi-AxisSupport-FreePrintingofFreeformPartswithLatticeInfillStructures.pdf)
 <center class="half">
     <img src="images/pic1.jpg" width="300"/><img src="images/pic2.jpg" width="300"/>
 </center>
