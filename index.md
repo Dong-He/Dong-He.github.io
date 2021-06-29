@@ -39,7 +39,7 @@ ___
 </center>
 
 ___
-* Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts. **Dong He**, Yamin Li, Zhaoyu Li, Kai Tang, Journal of Manufacturing Science and Engineering, 2021. [[Paper]](files/Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts.pdf)
+* Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts. **Dong He**, Yamin Li, Zhaoyu Li, Kai Tang, Journal of Manufacturing Science and Engineering, 2021. [[Paper]](https://github.com/Dong-He/Dong-He.github.io/blob/ed12be06663bdd48c433524e818c14045e3cc71f/files/Geodesic%20Distance%20Field-Based%20Process%20Planning%20for%20Five-Axis%20Machining%20of%20Complicated%20Parts.pdf)
 <center class="half">
     <img src="images/machining_layers.png" width="300"/><img src="images/geodesic.png" width="300"/>
 </center>
