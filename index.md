@@ -33,7 +33,7 @@ ___
 * Vector Field-based Curved Layer Slicing for Multi-Axis Support-free Printing. Yamin Li, **Dong He**, Shangqin Yuan, Kai Tang, Jihong Zhu, submitted to Additive Manufacturing. 
 
 ___
-* Quasi-developable and signed multi-strip approximation of a surface mesh for efficient flank milling. **Dong He**, Zhaoyu Li, Yamin Li, Kai Tang, accepted, Computer-Aided Design, special issue of 2021 Solid and Physical Modeling Conference, Sept. 27-29, 2021. [[Paper]]
+* Quasi-developable and signed multi-strip approximation of a surface mesh for efficient flank milling. **Dong He**, Zhaoyu Li, Yamin Li, Kai Tang, accepted, Computer-Aided Design, special issue of 2021 Solid and Physical Modeling Conference, Sept. 27-29, 2021. [[Paper]](https://doi.org/10.1016/j.cad.2021.103083)
 <center class="half">
     <img src="images/quasi_patches.png" width="130"/>  <img src="images/quasi_experiment.png" width="250"/>
 </center>
