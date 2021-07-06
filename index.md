@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 I am a Ph.D. Student in department of Mechanical Engineering at Hong Kong University of Science and Technology <a href="https://docs.google.com/document/d/1I_pskUUkR0F-M39aNBe-BI2NoyAhiWc2to2PEfdwV4k/edit?usp=sharing">(CV)</a>. I conduct research in <a href="http://mektang.people.ust.hk/">Prof. Kai TANG</a>'s Lab, where my research interests include computer-aided design/manufacturing/inspection and signal processing in manufacturing process.
 
 Please take a look through my site and feel free to contact me if you have any questions or would be interested in working together!
@@ -42,8 +49,7 @@ ___
 </center>
 
 ___
-* Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts. 
-&ensp;**Dong He**, Yamin Li, Zhaoyu Li, Kai Tang, Journal of Manufacturing Science and Engineering, 2021. [[Paper]](https://github.com/Dong-He/Dong-He.github.io/blob/ed12be06663bdd48c433524e818c14045e3cc71f/files/Geodesic%20Distance%20Field-Based%20Process%20Planning%20for%20Five-Axis%20Machining%20of%20Complicated%20Parts.pdf)
+* Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts. **Dong He**, Yamin Li, Zhaoyu Li, Kai Tang, Journal of Manufacturing Science and Engineering, 2021. [[Paper]](https://github.com/Dong-He/Dong-He.github.io/blob/ed12be06663bdd48c433524e818c14045e3cc71f/files/Geodesic%20Distance%20Field-Based%20Process%20Planning%20for%20Five-Axis%20Machining%20of%20Complicated%20Parts.pdf)
 <center class="half">
     <img src="images/machining_layers.png" width="300"/><img src="images/geodesic.png" width="300"/>
 </center>
