@@ -22,8 +22,8 @@ Please take a look through my site and feel free to contact me if you have any q
 * B.S. Xi’an Jiaotong University, 2011-2015
 
 ### Experience
-* **Research Assistant**, Shenzhen Institutes of Advanced Technology, CAS, 07/2018-07/2019  
-* **System Engineer Intern**, Envision Energy LLC, 07/2017-08/2017  
+* **Research Assistant**, Shenzhen Institutes of Advanced Technology, CAS, 07/2018-07/2019<br/>
+* **System Engineer Intern**, Envision Energy LLC, 07/2017-08/2017<br/>
 * **Volunteer**, The 120th Anniversary Celebration of XJTU, 04/2016
 
 ### Teaching
