@@ -42,7 +42,7 @@ Zhaoyu Li, **Dong He**, Ke Xu, Kai Tang<br/>
 ___
 * **Vector Field-based Curved Layer Slicing for Multi-Axis Support-free Printing**<br/>
 Yamin Li, **Dong He**, Shangqin Yuan, Kai Tang, Jihong Zhu<br/>
-*Submitted to Additive Manufacturing*
+*Submitted to Journal of Manufacturing Science and Engineering*
 
 ___
 * **Quasi-developable and signed multi-strip approximation of a surface mesh for efficient flank milling**<br/>
