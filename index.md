@@ -35,9 +35,9 @@ Please take a look through my site and feel free to contact me if you have any q
 The latest publications are on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
 
 ___
-* **Kinematics-conscientious five-axis trochoidal milling process planning for deep curved 3D slots**<br/>
+* **Kinematics-based five-axis trochoidal milling process planning for deep and curved 3D slots**<br/>
 Zhaoyu Li, **Dong He**, Ke Xu, Kai Tang<br/>
-*Journal of Manufacturing Science and Engineering, 2021. Accepted.* [[Paper]]
+*Journal of Manufacturing Science and Engineering, 2021.* [[Paper]](https://doi.org/10.1115/1.4051707)
 
 ___
 * **Vector Field-based Curved Layer Slicing for Multi-Axis Support-free Printing**<br/>
