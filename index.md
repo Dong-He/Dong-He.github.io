@@ -14,7 +14,7 @@ Please take a look through my site and feel free to contact me if you have any q
 <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar</a> |
 <a href="https://www.researchgate.net/profile/Dong_He8">Research Gate</a> |
 <a href="https://www.linkedin.com/in/hedong">LinkedIn</a> |
-<a href="https://github.com/dong-he">Github</a>
+<a href="https://github.com/dong-he">GitHub</a>
 
 ### Education
 * Ph.D Hong Kong University of Science and Technology, 2019-present
