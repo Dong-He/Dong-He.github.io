@@ -21,10 +21,6 @@ Please take a look through my site and feel free to contact me if you have any q
 * M.S. Xi’an Jiaotong University, 2015-2018
 * B.S. Xi’an Jiaotong University, 2011-2015
 
-### Experience
-* **System Engineer Intern**, Envision Energy LLC, 07/2017-08/2017<br/>
-* **Volunteer**, The 120th Anniversary Celebration of XJTU, 04/2016
-
 ### Teaching
 * **Teaching Assistant**, MECH 4740 Numerical methods, HKUST, 02/2021-06/2021  
 * **Teaching Assistant**, MESF 5380 Advanced numerical methods, HKUST, 02/2021-06/2021  
