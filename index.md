@@ -32,7 +32,7 @@ The latest publications are on <a href="https://scholar.google.com/citations?use
 ___
 * **Vector field-based curved layer slicing and path planning for multi-axis printing**<br/>
 Yamin Li, **Dong He**, Shangqin Yuan, Kai Tang, Jihong Zhu<br/>
-*Journal of Robotics and Computer-Integrated Manufacturing, 2022.*
+*Journal of Robotics and Computer-Integrated Manufacturing, 2022.* [[Paper]](https://doi.org/10.1016/j.rcim.2022.102362)
 
 ___
 * **Kinematics-based five-axis trochoidal milling process planning for deep and curved 3D slots**<br/>
