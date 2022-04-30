@@ -30,14 +30,14 @@ Please take a look through my site and feel free to contact me if you have any q
 The latest publications are on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
 
 ___
+* **Vector field-based curved layer slicing and path planning for multi-axis printing**<br/>
+Yamin Li, **Dong He**, Shangqin Yuan, Kai Tang, Jihong Zhu<br/>
+*Journal of Robotics and Computer-Integrated Manufacturing, 2022.*
+
+___
 * **Kinematics-based five-axis trochoidal milling process planning for deep and curved 3D slots**<br/>
 Zhaoyu Li, **Dong He**, Ke Xu, Kai Tang<br/>
 *Journal of Manufacturing Science and Engineering, 2021.* [[Paper]](https://doi.org/10.1115/1.4051707)
-
-___
-* **Vector Field-based Curved Layer Slicing for Multi-Axis Support-free Printing**<br/>
-Yamin Li, **Dong He**, Shangqin Yuan, Kai Tang, Jihong Zhu<br/>
-*Submitted*
 
 ___
 * **Quasi-developable and signed multi-strip approximation of a surface mesh for efficient flank milling**<br/>
