@@ -106,10 +106,14 @@ Jiantao Lu, Wei Cheng, **Dong He**, Yanyang Zi<br/>
 
 ___
 
+<body>
 
-<div class="u-clearfix u-custom-html u-custom-html-1">
+    <p style="text-align: center;">
+
           <a href="https://clustrmaps.com/site/1boz8" title="Visit tracker">
             <img src="//www.clustrmaps.com/map_v2.png?d=4FbY-EI4_iiu4vlFv1DX9O2XYZ67VMKSM5cYh3gNdRQ&cl=ffffff">
           </a>
-</div>
+    </p>
+
+</body>
 
