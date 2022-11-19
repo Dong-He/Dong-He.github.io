@@ -3,7 +3,7 @@ layout: archive
 author_profile: true
 ---
 
-I am a Ph.D. Student in department of Mechanical Engineering at Hong Kong University of Science and Technology. I conduct research in <a href="http://mektang.people.ust.hk/">Prof. Kai TANG</a>'s Lab, where my research interests include computer-aided design/manufacturing and geometric signal processing in manufacturing process.
+I received my PhD in department of Mechanical Engineering at Hong Kong University of Science and Technology (HKUST). Now I am a postdoctoral fellow at HKUST. I conduct research in <a href="http://mektang.people.ust.hk/">Prof. Kai TANG</a>'s Lab, where my research interests include computer-aided design/manufacturing and (geometric) signal processing in manufacturing process.
 
 Please take a look through my site and feel free to contact me if you have any questions or would be interested in working together!
 
@@ -17,7 +17,7 @@ Please take a look through my site and feel free to contact me if you have any q
 <a href="https://github.com/dong-he">GitHub</a>
 
 ### Education
-* Ph.D Hong Kong University of Science and Technology, 2019-present
+* Ph.D Hong Kong University of Science and Technology, 2019-2022
 * M.S. Xi’an Jiaotong University, 2015-2018
 * B.S. Xi’an Jiaotong University, 2011-2015
 
