@@ -30,15 +30,33 @@ Please take a look through my site and feel free to contact me if you have any q
 The latest publications are on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
 
 ___
+* **Efficient five-axis scanning-inspection path planning for complex freeform surfaces**<br/>
+Zhaoyu Li, **Dong He**, Xiangyu Li, Xiaoke Deng, Pengcheng Hu, Yue Hou, Hongyu Yu and Kai Tang<br/>
+*The Symposium on Solid and Physical Modeling (SPM) 2023* [[Paper]]()
+___
+* **Partition-based Print Sequence Planning and Adaptive Slicing for Scalar Field-based Multi-axis Additive Manufacturing**<br/>
+Takyu Lau, Li Chen, **Dong He**, Zhaoyu Li, Kai Tang<br/>
+*Computer-Aided Design, 2023.* [[Paper]]()
+___
+* **Collision-Conscious Multi-Pass Flank Milling of Complicated Parts Based on Stripification**<br/>
+**Dong He**, Zhaoyu Li, Xiangyu Li, Yamin Li, Kai Tang<br/>
+*Computer-Aided Design, 2023.* [[Paper]](https://doi.org/10.1016/j.cad.2023.103469)
+___
+* **Reinforcement learning method for machining deformation control based on meta-invariant feature space**<br/>
+Yujie Zhao, Changqing Liu, Zhiwei Zhao, Kai Tang, **Dong He**<br/>
+*Visual Computing for Industry, Biomedicine, and Art, 2022.* [[Paper]](https://doi.org/10.1186/s42492-022-00123-2)
+___
+* **Partition-based 3+ 2-axis tool path generation for freeform surface machining using a non-spherical tool**<br/>
+Jiancheng Hao, Zhaoyu Li, Xiangyu Li, Fubao Xie, **Dong He**, Kai Tang<br/>
+*Journal of Computational Design and Engineering, 2022.* [[Paper]](https://doi.org/10.1093/jcde/qwac077)
+___
 * **Vector field-based curved layer slicing and path planning for multi-axis printing**<br/>
 Yamin Li, **Dong He**, Shangqin Yuan, Kai Tang, Jihong Zhu<br/>
 *Journal of Robotics and Computer-Integrated Manufacturing, 2022.* [[Paper]](https://doi.org/10.1016/j.rcim.2022.102362)
-
 ___
 * **Kinematics-based five-axis trochoidal milling process planning for deep and curved 3D slots**<br/>
 Zhaoyu Li, **Dong He**, Ke Xu, Kai Tang<br/>
 *Journal of Manufacturing Science and Engineering, 2021.* [[Paper]](https://doi.org/10.1115/1.4051707)
-
 ___
 * **Quasi-developable and signed multi-strip approximation of a surface mesh for efficient flank milling**<br/>
 **Dong He**, Zhaoyu Li, Yamin Li, Kai Tang<br/>
