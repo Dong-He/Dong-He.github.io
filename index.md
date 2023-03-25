@@ -29,23 +29,23 @@ Please take a look through my site and feel free to contact me if you have any q
 ### Publications
 The latest publications are on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
 
-___
+
 * **Efficient five-axis scanning-inspection path planning for complex freeform surfaces**<br/>
 Zhaoyu Li, **Dong He**, Xiangyu Li, Xiaoke Deng, Pengcheng Hu, Yue Hou, Hongyu Yu and Kai Tang<br/>
 *The Symposium on Solid and Physical Modeling (SPM) 2023* [[Paper]]()
-___
+
 * **Partition-based Print Sequence Planning and Adaptive Slicing for Scalar Field-based Multi-axis Additive Manufacturing**<br/>
 Takyu Lau, Li Chen, **Dong He**, Zhaoyu Li, Kai Tang<br/>
 *Computer-Aided Design, 2023.* [[Paper]]()
-___
+
 * **Collision-Conscious Multi-Pass Flank Milling of Complicated Parts Based on Stripification**<br/>
 **Dong He**, Zhaoyu Li, Xiangyu Li, Yamin Li, Kai Tang<br/>
 *Computer-Aided Design, 2023.* [[Paper]](https://doi.org/10.1016/j.cad.2023.103469)
-___
+
 * **Reinforcement learning method for machining deformation control based on meta-invariant feature space**<br/>
 Yujie Zhao, Changqing Liu, Zhiwei Zhao, Kai Tang, **Dong He**<br/>
 *Visual Computing for Industry, Biomedicine, and Art, 2022.* [[Paper]](https://doi.org/10.1186/s42492-022-00123-2)
-___
+
 * **Partition-based 3+ 2-axis tool path generation for freeform surface machining using a non-spherical tool**<br/>
 Jiancheng Hao, Zhaoyu Li, Xiangyu Li, Fubao Xie, **Dong He**, Kai Tang<br/>
 *Journal of Computational Design and Engineering, 2022.* [[Paper]](https://doi.org/10.1093/jcde/qwac077)
@@ -85,44 +85,36 @@ Yamin Li, Kai Tang, **Dong He**, Xiangyu Wang<br/>
 
 ___
 
-* **Downsampling-based synchrosqueezing transform and its applications on large-scale vibration data**<br/>
+[5] **Downsampling-based synchrosqueezing transform and its applications on large-scale vibration data**<br/>
 **Dong He**, Hongrui Cao<br/>
 *Journal of Sound and Vibration, 2020.* [[Paper]](https://doi.org/10.1016/j.jsv.2021.115938) [[Code]](https://github.com/Dong-He/downsampled_SST)
 <center class="half">
     <img src="images/FastSST1.jpg" width="350"/><img src="images/FastSST2.jpg" width="200"/>
 </center>
 
+[4] **An improvement of time-reassigned synchrosqueezing transform algorithm and its application in mechanical fault diagnosis**<br/>
+Hongrui Cao, Xiangsheng Wang, **Dong He**, Xuefeng Chen<br/>
+*Measurement, 2020.* [[Paper]](https://doi.org/10.1016/j.measurement.2020.107538)
 ___
 
-* **Time-reassigned synchrosqueezing transform: The algorithm and its applications in mechanical signal processing**<br/>
+[3] **Time-reassigned synchrosqueezing transform: The algorithm and its applications in mechanical signal processing**<br/>
 **Dong He**, Hongrui Cao, Shibin Wang, Xuefeng Chen<br/>
 *Mechanical Systems and Signal Processing, 2019.* [[Paper]](https://doi.org/10.1016/j.ymssp.2018.08.004) [[Code]](https://github.com/Dong-He/tsst)
 <center class="half">
     <img src="images/tsst1.jpg" width="350"/><img src="images/tsst2.jpg" width="200"/>
 </center>
 
+[2] **A novel underdetermined blind source separation method with noise and unknown source number**<br/>
+Jiantao Lu, Wei Cheng, **Dong He**, Yanyang Zi<br/>
+*Journal of Sound and Vibration, 2019.* [[Paper]](https://doi.org/10.1016/j.jsv.2019.05.037)
 ___
 
-* **Vibration signal correction of unbalanced rotor due to angular speed fluctuation**<br/>
+[1] **Vibration signal correction of unbalanced rotor due to angular speed fluctuation**<br/>
 Hongrui Cao, **Dong He**, Songtao Xi, Xuefeng Chen<br/>
 *Mechanical Systems and Signal Processing, 2018.* [[Paper]](https://doi.org/10.1016/j.ymssp.2018.01.030)
 <center class="half">
     <img src="images/sst1.jpg" width="200"/><img src="images/sst2.jpg" width="250"/>
 </center>
-
-___
-
-* **An improvement of time-reassigned synchrosqueezing transform algorithm and its application in mechanical fault diagnosis**<br/>
-Hongrui Cao, Xiangsheng Wang, **Dong He**, Xuefeng Chen<br/>
-*Measurement, 2020.* [[Paper]](https://doi.org/10.1016/j.measurement.2020.107538)
-
-___
-
-* **A novel underdetermined blind source separation method with noise and unknown source number**<br/>
-Jiantao Lu, Wei Cheng, **Dong He**, Yanyang Zi<br/>
-*Journal of Sound and Vibration, 2019.* [[Paper]](https://doi.org/10.1016/j.jsv.2019.05.037)
-
-___
 
 <body>
     <p style="text-align: center;">
