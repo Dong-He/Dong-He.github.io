@@ -41,7 +41,7 @@ Takyu Lau, Li Chen, **Dong He**, Zhaoyu Li, Kai Tang<br/>
 **Dong He**, Zhaoyu Li, Xiangyu Li, Yamin Li, Kai Tang<br/>
 *Computer-Aided Design, 2023.* [[Paper]](https://doi.org/10.1016/j.cad.2023.103469)
 
-<HRalign=center width=300 color=##332E33 SIZE=1>
+<Hr Color="#332e33" Size=3>
 
 [14] **Reinforcement learning method for machining deformation control based on meta-invariant feature space**<br/>
 Yujie Zhao, Changqing Liu, Zhiwei Zhao, Kai Tang, **Dong He**<br/>
@@ -63,7 +63,7 @@ Xinxin Lu, Yuansheng Zhou, **Dong He**, Fangyan Zheng, Kai Tang, Jinyuan Tang<br
 Fubao Xie, Xishuang Jing, Chengyang Zhang, Siyu Chen, Danjie Bi, Zhaoyu Li, **Dong He**, Kai Tang<br/>
 *Computer-Aided Design, 2022*[[Paper]](https://doi.org/10.1016/j.cad.2021.103135)
 
-<HRalign=center width=300 color=##332E33 SIZE=1>
+<Hr Color="#332e33" Size=3>
 
 [9] **Kinematics-based five-axis trochoidal milling process planning for deep and curved 3D slots**<br/>
 Zhaoyu Li, **Dong He**, Ke Xu, Kai Tang<br/>
@@ -90,7 +90,7 @@ Yamin Li, Kai Tang, **Dong He**, Xiangyu Wang<br/>
     <img src="images/pic1.jpg" width="300"/><img src="images/pic2.jpg" width="300"/>
 </center>
 
-<HRalign=center width=300 color=##332E33 SIZE=1>
+<Hr Color="#332e33" Size=3>
 
 [5] **Downsampling-based synchrosqueezing transform and its applications on large-scale vibration data**<br/>
 **Dong He**, Hongrui Cao<br/>
@@ -103,7 +103,7 @@ Yamin Li, Kai Tang, **Dong He**, Xiangyu Wang<br/>
 Hongrui Cao, Xiangsheng Wang, **Dong He**, Xuefeng Chen<br/>
 *Measurement, 2020.* [[Paper]](https://doi.org/10.1016/j.measurement.2020.107538)
 
-<HRalign=center width=300 color=##332E33 SIZE=1>
+<Hr Color="#332e33" Size=3>
 
 [3] **Time-reassigned synchrosqueezing transform: The algorithm and its applications in mechanical signal processing**<br/>
 **Dong He**, Hongrui Cao, Shibin Wang, Xuefeng Chen<br/>
