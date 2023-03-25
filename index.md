@@ -83,7 +83,7 @@ Yamin Li, Kai Tang, **Dong He**, Xiangyu Wang<br/>
     <img src="images/pic1.jpg" width="300"/><img src="images/pic2.jpg" width="300"/>
 </center>
 
-___
+<HR>
 
 [5] **Downsampling-based synchrosqueezing transform and its applications on large-scale vibration data**<br/>
 **Dong He**, Hongrui Cao<br/>
@@ -95,7 +95,8 @@ ___
 [4] **An improvement of time-reassigned synchrosqueezing transform algorithm and its application in mechanical fault diagnosis**<br/>
 Hongrui Cao, Xiangsheng Wang, **Dong He**, Xuefeng Chen<br/>
 *Measurement, 2020.* [[Paper]](https://doi.org/10.1016/j.measurement.2020.107538)
-___
+
+<HR>
 
 [3] **Time-reassigned synchrosqueezing transform: The algorithm and its applications in mechanical signal processing**<br/>
 **Dong He**, Hongrui Cao, Shibin Wang, Xuefeng Chen<br/>
@@ -107,7 +108,8 @@ ___
 [2] **A novel underdetermined blind source separation method with noise and unknown source number**<br/>
 Jiantao Lu, Wei Cheng, **Dong He**, Yanyang Zi<br/>
 *Journal of Sound and Vibration, 2019.* [[Paper]](https://doi.org/10.1016/j.jsv.2019.05.037)
-___
+
+<HR>
 
 [1] **Vibration signal correction of unbalanced rotor due to angular speed fluctuation**<br/>
 Hongrui Cao, **Dong He**, Songtao Xi, Xuefeng Chen<br/>
