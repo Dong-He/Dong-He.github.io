@@ -29,61 +29,68 @@ Please take a look through my site and feel free to contact me if you have any q
 ### Publications
 The latest publications are on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
 
-
-* **Efficient five-axis scanning-inspection path planning for complex freeform surfaces**<br/>
+[17] **Efficient five-axis scanning-inspection path planning for complex freeform surfaces**<br/>
 Zhaoyu Li, **Dong He**, Xiangyu Li, Xiaoke Deng, Pengcheng Hu, Yue Hou, Hongyu Yu and Kai Tang<br/>
-*The Symposium on Solid and Physical Modeling (SPM) 2023* [[Paper]]()
+*Submitted to The Symposium on Solid and Physical Modeling (SPM) 2023* [[Paper]]()
 
-* **Partition-based Print Sequence Planning and Adaptive Slicing for Scalar Field-based Multi-axis Additive Manufacturing**<br/>
+[16] **Partition-based Print Sequence Planning and Adaptive Slicing for Scalar Field-based Multi-axis Additive Manufacturing**<br/>
 Takyu Lau, Li Chen, **Dong He**, Zhaoyu Li, Kai Tang<br/>
-*Computer-Aided Design, 2023.* [[Paper]]()
+*Submitted to Computer-Aided Design, 2023.* [[Paper]]()
 
-* **Collision-Conscious Multi-Pass Flank Milling of Complicated Parts Based on Stripification**<br/>
+[15] **Collision-Conscious Multi-Pass Flank Milling of Complicated Parts Based on Stripification**<br/>
 **Dong He**, Zhaoyu Li, Xiangyu Li, Yamin Li, Kai Tang<br/>
 *Computer-Aided Design, 2023.* [[Paper]](https://doi.org/10.1016/j.cad.2023.103469)
 
-* **Reinforcement learning method for machining deformation control based on meta-invariant feature space**<br/>
+<HRalign=center width=300 color=##332E33SIZE=1>
+
+[14] **Reinforcement learning method for machining deformation control based on meta-invariant feature space**<br/>
 Yujie Zhao, Changqing Liu, Zhiwei Zhao, Kai Tang, **Dong He**<br/>
 *Visual Computing for Industry, Biomedicine, and Art, 2022.* [[Paper]](https://doi.org/10.1186/s42492-022-00123-2)
 
-* **Partition-based 3+ 2-axis tool path generation for freeform surface machining using a non-spherical tool**<br/>
+[13] **Partition-based 3+ 2-axis tool path generation for freeform surface machining using a non-spherical tool**<br/>
 Jiancheng Hao, Zhaoyu Li, Xiangyu Li, Fubao Xie, **Dong He**, Kai Tang<br/>
 *Journal of Computational Design and Engineering, 2022.* [[Paper]](https://doi.org/10.1093/jcde/qwac077)
-___
-* **Vector field-based curved layer slicing and path planning for multi-axis printing**<br/>
+
+[12] **Vector field-based curved layer slicing and path planning for multi-axis printing**<br/>
 Yamin Li, **Dong He**, Shangqin Yuan, Kai Tang, Jihong Zhu<br/>
 *Journal of Robotics and Computer-Integrated Manufacturing, 2022.* [[Paper]](https://doi.org/10.1016/j.rcim.2022.102362)
-___
-* **Kinematics-based five-axis trochoidal milling process planning for deep and curved 3D slots**<br/>
+
+[11] **A novel two-variable optimization algorithm of TCA for the design of face gear drives**<br/>
+Xinxin Lu, Yuansheng Zhou, **Dong He**, Fangyan Zheng, Kai Tang, Jinyuan Tang<br/>
+*Mechanism and Machine Theory, 2022* [[Paper]](https://doi.org/10.1016/j.mechmachtheory.2022.104960)
+
+[10] **Volume decomposition for multi-axis support-free and gouging-free printing based on ellipsoidal slicing**<br/>
+Fubao Xie, Xishuang Jing, Chengyang Zhang, Siyu Chen, Danjie Bi, Zhaoyu Li, **Dong He**, Kai Tang<br/>
+*Computer-Aided Design, 2022*[[Paper]](https://doi.org/10.1016/j.cad.2021.103135)
+
+<HRalign=center width=300 color=##332E33SIZE=1>
+
+[9] **Kinematics-based five-axis trochoidal milling process planning for deep and curved 3D slots**<br/>
 Zhaoyu Li, **Dong He**, Ke Xu, Kai Tang<br/>
 *Journal of Manufacturing Science and Engineering, 2021.* [[Paper]](https://doi.org/10.1115/1.4051707)
-___
-* **Quasi-developable and signed multi-strip approximation of a surface mesh for efficient flank milling**<br/>
+
+[8] **Quasi-developable and signed multi-strip approximation of a surface mesh for efficient flank milling**<br/>
 **Dong He**, Zhaoyu Li, Yamin Li, Kai Tang<br/>
 *Computer-Aided Design, special issue of 2021 Solid and Physical Modeling Conference, Sept. 27-29, 2021.*(**Travel Award**) [[Paper]](https://doi.org/10.1016/j.cad.2021.103083)
-
 <center class="half">
     <img src="images/quasi_patches.png" width="130"/>  <img src="images/quasi_experiment.png" width="250"/>
 </center>
 
-___
-* **Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts**<br/>
+[7] **Geodesic Distance Field-Based Process Planning for Five-Axis Machining of Complicated Parts**<br/>
 **Dong He**, Yamin Li, Zhaoyu Li, Kai Tang<br/>
 *Journal of Manufacturing Science and Engineering, 2021.* [[Paper]](https://github.com/Dong-He/Dong-He.github.io/blob/ed12be06663bdd48c433524e818c14045e3cc71f/files/Geodesic%20Distance%20Field-Based%20Process%20Planning%20for%20Five-Axis%20Machining%20of%20Complicated%20Parts.pdf)
 <center class="half">
     <img src="images/machining_layers.png" width="300"/><img src="images/geodesic.png" width="300"/>
 </center>
 
-___
-
-* **Multi-Axis Support-Free Printing of Freeform Parts with Lattice Infill Structures**<br/>
+[6] **Multi-Axis Support-Free Printing of Freeform Parts with Lattice Infill Structures**<br/>
 Yamin Li, Kai Tang, **Dong He**, Xiangyu Wang<br/>
 *Computer-Aided Design, 2021.* [[Paper]](files/Multi-AxisSupport-FreePrintingofFreeformPartswithLatticeInfillStructures.pdf)
 <center class="half">
     <img src="images/pic1.jpg" width="300"/><img src="images/pic2.jpg" width="300"/>
 </center>
 
-<HR>
+<HRalign=center width=300 color=##332E33SIZE=1>
 
 [5] **Downsampling-based synchrosqueezing transform and its applications on large-scale vibration data**<br/>
 **Dong He**, Hongrui Cao<br/>
@@ -96,7 +103,7 @@ Yamin Li, Kai Tang, **Dong He**, Xiangyu Wang<br/>
 Hongrui Cao, Xiangsheng Wang, **Dong He**, Xuefeng Chen<br/>
 *Measurement, 2020.* [[Paper]](https://doi.org/10.1016/j.measurement.2020.107538)
 
-<HR>
+<HRalign=center width=300 color=##332E33SIZE=1>
 
 [3] **Time-reassigned synchrosqueezing transform: The algorithm and its applications in mechanical signal processing**<br/>
 **Dong He**, Hongrui Cao, Shibin Wang, Xuefeng Chen<br/>
@@ -109,7 +116,7 @@ Hongrui Cao, Xiangsheng Wang, **Dong He**, Xuefeng Chen<br/>
 Jiantao Lu, Wei Cheng, **Dong He**, Yanyang Zi<br/>
 *Journal of Sound and Vibration, 2019.* [[Paper]](https://doi.org/10.1016/j.jsv.2019.05.037)
 
-<HR>
+<HRalign=center width=300 color=##332E33SIZE=1>
 
 [1] **Vibration signal correction of unbalanced rotor due to angular speed fluctuation**<br/>
 Hongrui Cao, **Dong He**, Songtao Xi, Xuefeng Chen<br/>
