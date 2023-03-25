@@ -116,7 +116,7 @@ Hongrui Cao, Xiangsheng Wang, **Dong He**, Xuefeng Chen<br/>
 Jiantao Lu, Wei Cheng, **Dong He**, Yanyang Zi<br/>
 *Journal of Sound and Vibration, 2019.* [[Paper]](https://doi.org/10.1016/j.jsv.2019.05.037)
 
-<HRalign=center width=300 color=##332E33SIZE=1>
+<HRalign=center width=300 color=##332e33SIZE=1>
 
 [1] **Vibration signal correction of unbalanced rotor due to angular speed fluctuation**<br/>
 Hongrui Cao, **Dong He**, Songtao Xi, Xuefeng Chen<br/>
