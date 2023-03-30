@@ -29,12 +29,6 @@ Please take a look through my site and feel free to contact me if you have any q
 ### Publications
 The latest publications are on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
 
-[18] **Efficient machining of a complex blisk channel using a disc cutter**<br/>
-*Submitted to Chinese Journal of Aeronautics, 2023* [[Paper]]()
-
-[17] **Efficient five-axis scanning-inspection path planning for complex freeform surfaces**<br/>
-Zhaoyu Li, **Dong He**, Xiangyu Li, Xiaoke Deng, Pengcheng Hu, Yue Hou, Hongyu Yu and Kai Tang<br/>
-*Submitted to The Symposium on Solid and Physical Modeling (SPM) 2023* [[Paper]]()
 
 [16] **Partition-based Print Sequence Planning and Adaptive Slicing for Scalar Field-based Multi-axis Additive Manufacturing**<br/>
 Takyu Lau, Li Chen, **Dong He**, Zhaoyu Li, Kai Tang<br/>
