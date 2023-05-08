@@ -31,7 +31,7 @@ The latest publications are on <a href="https://scholar.google.com/citations?use
 
 [17] **Efficient machining of a complex blisk channel using a disc cutter**<br/>
 Xiangyu Li, Zhaoyu Li, **Dong He**, Junxue Ren, Qian Feng, Kai Tang<br/>
-*Submitted to Computer-Aided Design, 2023.* [[Paper]](https://doi.org/10.1016/j.cja.2023.04.017)
+*Chinese Journal of Aeronautics, 2023.* [[Paper]](https://doi.org/10.1016/j.cja.2023.04.017)
 
 [16] **Partition-based Print Sequence Planning and Adaptive Slicing for Scalar Field-based Multi-axis Additive Manufacturing**<br/>
 Takyu Lau, Li Chen, **Dong He**, Zhaoyu Li, Kai Tang<br/>
