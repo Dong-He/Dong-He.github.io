@@ -35,7 +35,7 @@ Xiangyu Li, Zhaoyu Li, **Dong He**, Junxue Ren, Qian Feng, Kai Tang<br/>
 
 [16] **Partition-based Print Sequence Planning and Adaptive Slicing for Scalar Field-based Multi-axis Additive Manufacturing**<br/>
 Takyu Lau, Li Chen, **Dong He**, Zhaoyu Li, Kai Tang<br/>
-*Submitted to Computer-Aided Design, 2023.* [[Paper]]()
+*Computer-Aided Design, 2023.* [[Paper]](https://doi.org/10.1016/j.cad.2023.103576)
 
 [15] **Collision-Conscious Multi-Pass Flank Milling of Complicated Parts Based on Stripification**<br/>
 **Dong He**, Zhaoyu Li, Xiangyu Li, Yamin Li, Kai Tang<br/>
