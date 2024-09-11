@@ -29,6 +29,18 @@ Please take a look through my site and feel free to contact me if you have any q
 ### Publications
 The latest publications are on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
 
+[20] **Efficient cutting path planning for a non-spherical tool based on an iso-scallop height distance field**<br/>
+Jiancheng Hao, **Dong He**, Zhaoyu Li, Pengcheng Hu, Yuanzhi Chen, Kai Tang<br/>
+*Chinese Journal of Aeronautics, 2024.* [[Paper]](https://doi.org/10.1016/j.cja.2023.12.005)
+
+[19] **Feedrate-preserved motion planning for five-axis directed energy deposition of freeform metal parts**<br/>
+**Dong He**, Xiaoke Deng, Yuanzhi Chen, Wenze Zhang, Jiancheng Hao, Pengcheng Hu, Li Chen, Yi-Kuen Lee, Kai Tang<br/>
+*Additive Manufacturing, 2024.* [[Paper]](https://doi.org/10.1016/j.addma.2024.104302)
+
+[18] **Efficient five-axis scanning-inspection path planning for complex freeform surfaces**<br/>
+Zhaoyu Li, **Dong He**, Xiangyu Li, Xiaoke Deng, Pengcheng Hu, Jiancheng Hao, Yue Hou, Hongyu Yu, Kai Tang<br/>
+*Robotics and Computer-Integrated Manufacturing, 2023.* [[Paper]](https://doi.org/10.1016/j.rcim.2023.102687)
+
 [17] **Efficient machining of a complex blisk channel using a disc cutter**<br/>
 Xiangyu Li, Zhaoyu Li, **Dong He**, Junxue Ren, Qian Feng, Kai Tang<br/>
 *Chinese Journal of Aeronautics, 2023.* [[Paper]](https://doi.org/10.1016/j.cja.2023.04.017)
