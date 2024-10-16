@@ -29,6 +29,10 @@ Please take a look through my site and feel free to contact me if you have any q
 ### Publications
 The latest publications are on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
 
+[21] **Iso-force rough machining of freeform deep cavities based on volumetric fields**<br/>
+**Dong He**, Xiangyu Li, Zhaoyu Li, Jiejun Xie, Jiancheng Hao, Yi-Kuen Lee, Pengcheng Hu, Kai Tang<br/>
+*Journal of Manufacturing Processes, 2024.* [[Paper]](https://doi.org/10.1016/j.jmapro.2024.09.104)
+
 [20] **Efficient cutting path planning for a non-spherical tool based on an iso-scallop height distance field**<br/>
 Jiancheng Hao, **Dong He**, Zhaoyu Li, Pengcheng Hu, Yuanzhi Chen, Kai Tang<br/>
 *Chinese Journal of Aeronautics, 2024.* [[Paper]](https://doi.org/10.1016/j.cja.2023.12.005)
