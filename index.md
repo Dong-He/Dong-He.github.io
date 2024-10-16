@@ -41,6 +41,8 @@ Jiancheng Hao, **Dong He**, Zhaoyu Li, Pengcheng Hu, Yuanzhi Chen, Kai Tang<br/>
 **Dong He**, Xiaoke Deng, Yuanzhi Chen, Wenze Zhang, Jiancheng Hao, Pengcheng Hu, Li Chen, Yi-Kuen Lee, Kai Tang<br/>
 *Additive Manufacturing, 2024.* [[Paper]](https://doi.org/10.1016/j.addma.2024.104302)
 
+<Hr Color="#332e33" Size=3>
+
 [18] **Efficient five-axis scanning-inspection path planning for complex freeform surfaces**<br/>
 Zhaoyu Li, **Dong He**, Xiangyu Li, Xiaoke Deng, Pengcheng Hu, Jiancheng Hao, Yue Hou, Hongyu Yu, Kai Tang<br/>
 *Robotics and Computer-Integrated Manufacturing, 2023.* [[Paper]](https://doi.org/10.1016/j.rcim.2023.102687)
